@@ -13,3 +13,10 @@ In order for the webpage given by my client to meet accessibility standards, I m
     5. Change <div></div> tag to <footer></footer> tag for footer part
 
     6. After all, application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+
+Images:
+
+![HoriSeon-1](./images/IM1.png)
+![HoriSeon-2](./images/IM2.png)
+![HoriSeon-3](./imag/IM3.png)
