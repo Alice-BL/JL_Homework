@@ -16,4 +16,6 @@ In order for the webpage given by my client to meet accessibility standards, I m
     
     The URL of the deloyed aplliaction
     https://github.com/Alice-BL/JL_Homework
+    https://alice-bl.github.io/JL_InterestingPath/
+    
     
